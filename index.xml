@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Entirely Different Matters</title>
-    <link>https://kaapeine.github.io/</link>
+    <link>/</link>
     <description>Recent content on Entirely Different Matters</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 06 Jun 2022 01:18:54 +0530</lastBuildDate>
     
-	<atom:link href="https://kaapeine.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://kaapeine.github.io/about/</link>
+      <link>/about/</link>
       <pubDate>Mon, 06 Jun 2022 01:18:54 +0530</pubDate>
       
-      <guid>https://kaapeine.github.io/about/</guid>
+      <guid>/about/</guid>
       <description>I&amp;rsquo;m Vathsa, a professional Robotics Engineer and amateur everything else. I&amp;rsquo;m interested in STEM, Internet culture, Music and Literature, and I wish I did a lot more. I needed a place to express my joyful inner self, and I&amp;rsquo;m not sure I&amp;rsquo;m being ironic about that. I genuinely believe writing will motivate me to dig deeper into the things I like a lot more than I usually do and hopefully, a little more than what would be healthy.</description>
     </item>
     
     <item>
       <title>Ricing as an artistic expression of laziness</title>
-      <link>https://kaapeine.github.io/posts/first_post/</link>
+      <link>/posts/first_post/</link>
       <pubDate>Mon, 06 Jun 2022 00:37:07 +0530</pubDate>
       
-      <guid>https://kaapeine.github.io/posts/first_post/</guid>
+      <guid>/posts/first_post/</guid>
       <description>I finally got a work laptop. Finally. It was worth the wait though, I now have a shiny new laptop with a glowing RGB star on the lid.
 I was fantasizing about this for weeks. Just me and my laptop, all alone in my house. Ugh, I get so romantic sometimes. Just imagine all the projects I can do! All the shitty memes I can make on Photoshop! All the brilliantly written, beautifully designed, post-modern indie video games that I can play!</description>
     </item>
