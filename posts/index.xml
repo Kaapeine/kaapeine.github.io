@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Entirely Different Matters</title>
+    <link>http://entirelydifferentmatters.github.io/posts/</link>
+    <description>Recent content in Posts on Entirely Different Matters</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Jun 2022 00:37:07 +0530</lastBuildDate>
+    
+	<atom:link href="http://entirelydifferentmatters.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ricing as an artistic expression of laziness</title>
+      <link>http://entirelydifferentmatters.github.io/posts/first_post/</link>
+      <pubDate>Mon, 06 Jun 2022 00:37:07 +0530</pubDate>
+      
+      <guid>http://entirelydifferentmatters.github.io/posts/first_post/</guid>
+      <description>I finally got a work laptop. Finally. It was worth the wait though, I now have a shiny new laptop with a glowing RGB star on the lid.
+I was fantasizing about this for weeks. Just me and my laptop, all alone in my house. Ugh, I get so romantic sometimes. Just imagine all the projects I can do! All the shitty memes I can make on Photoshop! All the brilliantly written, beautifully designed, post-modern indie video games that I can play!</description>
+    </item>
+    
+  </channel>
+</rss>
