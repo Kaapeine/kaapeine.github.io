@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Entirely Different Matters</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jun 2022 18:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Jul 2022 20:13:36 +0530</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cant_into_forestry</title>
+      <link>/posts/cant_into_forestry/</link>
+      <pubDate>Mon, 18 Jul 2022 20:13:36 +0530</pubDate>
+      
+      <guid>/posts/cant_into_forestry/</guid>
+      <description>I found forestry so confusing to use. It&amp;rsquo;s one of those blocky websites that trade usability in the name of &amp;ldquo;accessible&amp;rdquo; user experience. A trend I&amp;rsquo;ve seen in a lot of modern websites. Hard pass. I&amp;rsquo;ll stick to Vim and bash scripts for now.</description>
+    </item>
     
     <item>
       <title>I&#39;ve set up Forestry</title>
