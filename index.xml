@@ -28,7 +28,7 @@
       
       <guid>/posts/opencv_cpp/</guid>
       <description>I ran into lots of issues trying to get the SFM example to work with C++, mostly linking errors. Installing Ceres and its dependencies was a breeze. The problem, however, was that the SFM libraries were not detecting Ceres, and so weren&amp;rsquo;t being included. To fix it, I had to add:
-#define CERES_FOUND 1 before I included the SFM libraries. This fixed the SFM issues but I still fazed issues with the VIZ module, until I realized I just had not added that to cmake.</description>
+#define CERES_FOUND 1 before I included the SFM libraries. This fixed the SFM issues but I still faced issues with the VIZ module, until I realized I just had not added that dependency to cmake.</description>
     </item>
     
     <item>
