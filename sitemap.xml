@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/posts/music_libraries/</loc>
+    <lastmod>2022-07-30T20:17:54+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2022-07-30T20:17:54+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>/</loc>
     <lastmod>2022-07-30T19:34:45+05:30</lastmod>
   </url>
@@ -10,11 +20,6 @@
   <url>
     <loc>/projects/</loc>
     <lastmod>2022-07-30T19:34:45+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/</loc>
-    <lastmod>2022-07-30T19:08:51+05:30</lastmod>
   </url>
   
   <url>
