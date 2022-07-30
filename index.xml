@@ -6,10 +6,20 @@
     <description>Recent content on Entirely Different Matters</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Jun 2022 01:18:54 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 30 Jul 2022 19:34:45 +0530</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Projects</title>
+      <link>/projects/</link>
+      <pubDate>Sat, 30 Jul 2022 19:34:45 +0530</pubDate>
+      
+      <guid>/projects/</guid>
+      <description>Some stuff I&amp;rsquo;ve worked on:
+ Anki Card Maker: I wanted to improve my Kannada vocabulary, so I built a scraping tool that creates flashcards for Anki. Youtube to Transcript: Youtube has some great longform content but I just do not have the time to watch 30min+ long videos. However, I can just skim through it much faster if I had it in text. This script fetches the user-created/auto-generated subtitles and adds punctuation using a great ML-based Python package I found.</description>
+    </item>
     
     <item>
       <title>Using OpenCV with C&#43;&#43;</title>
