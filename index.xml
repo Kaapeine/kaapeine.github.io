@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Entirely Different Matters</title>
+    <link>/</link>
+    <description>Recent content on Entirely Different Matters</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Jun 2022 01:18:54 +0530</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Can&#39;t into Forestry</title>
+      <link>/posts/cant_into_forestry/</link>
+      <pubDate>Mon, 18 Jul 2022 20:13:36 +0530</pubDate>
+      
+      <guid>/posts/cant_into_forestry/</guid>
+      <description>I found forestry so confusing to use. It&amp;rsquo;s one of those blocky websites that trades usability for &amp;ldquo;accessible&amp;rdquo; user experience. A trend I&amp;rsquo;ve seen in a lot of modern websites. Hard pass. I&amp;rsquo;ll stick to text editors and bash scripts for now.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 06 Jun 2022 01:18:54 +0530</pubDate>
+      
+      <guid>/about/</guid>
+      <description>I&amp;rsquo;m Vathsa, a professional Robotics Engineer and amateur everything else. I&amp;rsquo;m interested in STEM, Internet culture, Music and Literature, and I wish I had the time for a lot more. I needed a place to express my joyful inner self, and I&amp;rsquo;m not sure I&amp;rsquo;m being ironic here. I genuinely believe writing will motivate me to dig deeper into the things I like a lot more than I usually do and hopefully, a little more than what would be healthy.</description>
+    </item>
+    
+    <item>
+      <title>Ricing = Procrastination</title>
+      <link>/posts/first_post/</link>
+      <pubDate>Mon, 06 Jun 2022 00:37:07 +0530</pubDate>
+      
+      <guid>/posts/first_post/</guid>
+      <description>I finally got a work laptop. Finally. It was worth the wait though, I now have a shiny new laptop with a glowing RGB star on the lid.
+I was looking forward to this for weeks. Just me and my laptop, all alone in my house. Just imagine all the projects I can do! All the shitty memes I can make on Photoshop! All the brilliantly written, beautifully designed, post-modern indie video games that I can play!</description>
+    </item>
+    
+    <item>
+      <title>I&#39;ve set up Forestry</title>
+      <link>/posts/i-ve-set-up-forestry/</link>
+      <pubDate>Sun, 05 Jun 2022 18:30:00 +0000</pubDate>
+      
+      <guid>/posts/i-ve-set-up-forestry/</guid>
+      <description>I&amp;rsquo;m trying out Forestry, so that I don&amp;rsquo;t have to actually use Vim to write my posts like some basement dweller. So far, it seems straightforward but annoying to use if I want to do anything more than the bare minimum. In this case that&amp;rsquo;s a good thing. Anything that makes me write more and fuck around less.</description>
+    </item>
+    
+  </channel>
+</rss>
