@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Entirely Different Matters</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Jul 2022 20:13:36 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 30 Jul 2022 19:08:51 +0530</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Using OpenCV with C&#43;&#43;</title>
+      <link>/posts/opencv_cpp/</link>
+      <pubDate>Sat, 30 Jul 2022 19:08:51 +0530</pubDate>
+      
+      <guid>/posts/opencv_cpp/</guid>
+      <description>I ran into lots of issues trying to get the SFM example to work with C++, mostly linking errors. Installing Ceres and its dependencies was a breeze. The problem, however, was that the SFM libraries were not detecting Ceres, and so weren&amp;rsquo;t being included. To fix it, I had to add:
+#define CERES_FOUND 1 before I included the SFM libraries. This fixed the SFM issues but I still fazed issues with the VIZ module, until I realized I just had not added that to cmake.</description>
+    </item>
     
     <item>
       <title>Can&#39;t into Forestry</title>

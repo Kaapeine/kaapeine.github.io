@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/posts/cant_into_forestry/</loc>
-    <lastmod>2022-07-18T20:13:36+05:30</lastmod>
+    <loc>/posts/</loc>
+    <lastmod>2022-07-30T19:08:51+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/posts/</loc>
+    <loc>/posts/opencv_cpp/</loc>
+    <lastmod>2022-07-30T19:08:51+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/cant_into_forestry/</loc>
     <lastmod>2022-07-18T20:13:36+05:30</lastmod>
   </url>
   
