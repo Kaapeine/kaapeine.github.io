@@ -22,6 +22,16 @@ I started listening to music by ripping it off YouTube, like so many others my a
     </item>
     
     <item>
+      <title>Art</title>
+      <link>/art/</link>
+      <pubDate>Sat, 30 Jul 2022 19:34:45 +0530</pubDate>
+      
+      <guid>/art/</guid>
+      <description>Creative coding and other stuff goes here:
+Cellular Automata (Rule 30) </description>
+    </item>
+    
+    <item>
       <title>Projects</title>
       <link>/projects/</link>
       <pubDate>Sat, 30 Jul 2022 19:34:45 +0530</pubDate>
